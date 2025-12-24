@@ -1,0 +1,20 @@
+const DATABASE = {
+	"Spinach": {
+		"thai name": "ผักบุ้ง",
+		"minPH" : 0.2,
+		"maxPH" : 3.4,
+		N : 23,
+		P : 23.
+		K : 32.
+		info : "spinach is yummy"
+	},
+	"Spinach": {
+		"thai name": "ผักบุ้ง",
+		"minPH" : 0.2,
+		"maxPH" : 3.4,
+		N : 23,
+		P : 23.
+		K : 32.
+		info : "spinach is yummy"
+	},
+}
