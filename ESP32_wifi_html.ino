@@ -5,8 +5,8 @@
 #include "website.h"
 
 // --- WiFi Credentials ---
-const char* ssid = "Parita Phrueksa_2.4G";
-const char* password = "NeNe2550";
+const char* ssid = "Marshalz";
+const char* password = "abcdefgh";
 
 // --- Hardware Definitions ---
 #define RXD2 16
